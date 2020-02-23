@@ -4,4 +4,6 @@
 
 .orange-bg {
   background-color: #fceae8;
+  border: 1px solid red;
+  padding: 20px 40px;
 }
