@@ -6,4 +6,4 @@
 1. E-commerce website
 2. Static website
 3. Single Page Application
-2. Plain HTML,CSS & Bootstrap
+2. Build with plain HTML,CSS & Bootstrap
