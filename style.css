@@ -12,12 +12,9 @@
   padding: 20px 40px;
 }
 .price {
-    
 
   color: #FF136F;
-  
-
-
+  text-decoration: underline;
 }
 
 .buy-now-btn {
