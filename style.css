@@ -13,8 +13,13 @@
 }
 .price {
     
+<<<<<<< HEAD
   color: #FF136F;
   
+=======
+  /* color: #FF136F; */
+  color: gold;
+>>>>>>> 8ef32903ece4f228d36c14ae4493b44a672281dd
 
 }
 
